@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8213",
+  "folder": "YouTube__watch_20260519215119_bda950",
+  "base_name": "ohnePixel_just_set_a_German_Record_for_most_67_s_in_20_seconds_LVD0BaArLUU_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/soliumomnipotentis/Cloud-Downloads2/releases/tag/co-releases-v1-8213",
+  "files": [
+    {
+      "name": "ohnePixel_just_set_a_German_Record_for_most_67_s_in_20_seconds_LVD0BaArLUU_1080p.mp4",
+      "url": "https://github.com/soliumomnipotentis/Cloud-Downloads2/releases/download/co-releases-v1-8213/ohnePixel_just_set_a_German_Record_for_most_67_s_in_20_seconds_LVD0BaArLUU_1080p.mp4",
+      "api_url": "https://api.github.com/repos/soliumomnipotentis/Cloud-Downloads2/releases/assets/424552147",
+      "id": 424552147,
+      "size": 15303863,
+      "download_count": 0
+    }
+  ]
+}
